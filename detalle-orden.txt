@@ -1,0 +1,4 @@
+Los servicios se levantan:
+Primero: el frontend
+Segundo: la db
+Tercero: el backend
